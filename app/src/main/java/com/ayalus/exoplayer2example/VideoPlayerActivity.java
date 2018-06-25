@@ -37,15 +37,8 @@ import com.google.android.exoplayer2.video.VideoRendererEventListener;
 
 
 
-/*
-Created by: Ayal Fieldust
-Date: 8/2017
-
-Description:
-This Example app was created to show a simple example of ExoPlayer Version 2.5.1.
-There is an option to play mp4 files or live stream content.
-Exoplayer provides options to play many different formats, so the code can easily be tweaked to play the requested format.
-scroll down to "ADJUST HERE:" I & II to change between sources.
+/**
+ * Test
  */
 
 public class VideoPlayerActivity extends AppCompatActivity implements VideoRendererEventListener {
